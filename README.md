@@ -1,6 +1,1 @@
-Load a csv file that contains the protein name and its abundance value for each cell 
-e.g 
-Protein  C1  C2  C3  C4  S1  S2  S3  S4
-IFT56	1.426685043	0.877735066	0.329071694	0.675765385	1.516468299	-0.130691626	0.523404332	0.75121025	
-UBA6	5.813421434	5.868139909	5.511596732	5.730213169	5.540852458	5.643496433	5.549272418	5.721603788	
-SHTN1	5.89847009	6.010760484	6.625142631	6.579878895	6.559868485	6.527519857	6.752223023	6.815144556	
+#Load a csv file that contains the protein name and its abundance value for each cell. Column 1: Protein name, Column 2, 3, 4 ... x: Control 1, Control 2, Control 3, Control 4 ... Sample x.  
